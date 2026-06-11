@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning JavaScript 3D Animations<br>🎯 Goals: Contribute to my community, create opportunities for others, learn 3D Animations<br>🎲 Fun fact: I have been an organizer for more than 5 hackathons!</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning how to build SaaS<br>🎯 Goals: Contribute to my community, create opportunities for others, and build cool stuff<br>🎲 Fun fact: I have been an organizer for more than 5 hackathons!</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I create with</h2>
 
 ###
 
