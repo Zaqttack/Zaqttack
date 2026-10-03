@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Zaquariah Holland and I'm a Software Engineer, from San Antonio</p>
+<p align="left">My name is Zaquariah Holland and I'm a Senior Software Engineer, from San Antonio</p>
 
 ###
 
